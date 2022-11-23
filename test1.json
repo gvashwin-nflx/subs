@@ -1,0 +1,14 @@
+[{
+    "startMs": 0,
+    "endMs": 5000,
+    "text-en": "hello how are you doing",
+    "text-es": "hola, cómo estás"
+  },
+  {
+    "startMs": 5001,
+    "endMs": 10000,
+    "text-en": "How is your day",
+    "text-es": "Cómo va su día"
+  }
+
+]
